@@ -1,0 +1,32 @@
+.nav-button{
+    background-color: #E8E8E8;  
+}
+
+.nav-item.blueColor .nav-button{
+    background-color:#174EFF;
+}
+
+.blog-date{
+    color: #9E9E9E;
+}
+.card_image{
+    box-shadow:  5px 3px 20px 7px rgba(10, 146, 78, 0.2);
+    
+  }
+  .nav-circle{
+    color: #e3e5e8;
+  }
+  .nav-first-circle{
+    color: #e93f59;
+  }
+  .nav-title-font{
+    color: black;
+  }
+
+  .pervious-button{
+    color: #022199;
+  }
+
+  .pagination .page-link{
+    color: #000000;
+  }

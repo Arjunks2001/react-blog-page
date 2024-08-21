@@ -1,0 +1,22 @@
+.nav-title-font{
+    font-family: Raleway;
+    font-size: 15px;
+}
+.blog-content{
+    font-family: "Lora";
+    font-size: 18px;
+    font-weight: 700;
+}
+.blog-date{
+    font-family: "Lora";
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.page-num{
+    font-family:  "Lora";
+}
+
+.pagination .page-link{
+    font-family:  "Lora";
+}
